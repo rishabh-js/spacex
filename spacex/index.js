@@ -2,6 +2,7 @@ const name = 'namer';
 console.log('new change');
 console.log('new change b');
 console.log('new change d');
+console.log('new change e');
 console.log('new change c');
 console.log('new change f');
 console.log('new change g');
